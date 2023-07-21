@@ -1,6 +1,6 @@
-###Olá, eu sou o Geovanne Alves, estudante de programação e tecnologia!
+### Olá, eu sou o Geovanne Alves, estudante de programação e tecnologia!
 
-## Tecnologia que eu uso no meu dia
+## Tecnologia que eu utilizo no meu dia
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
